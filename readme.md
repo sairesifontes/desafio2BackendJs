@@ -1,5 +1,5 @@
 # Product Manager
-    Segundp desafio del curso BackEnd en CoderHouse
+    Segundo desafio del curso BackEnd en CoderHouse
 
     El desafio implementa una clase ProductManager que permite gestionar productos. Cada producto tiene las siguientes propiedades:
 
